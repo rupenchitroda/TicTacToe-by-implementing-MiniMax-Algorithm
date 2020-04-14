@@ -6,7 +6,7 @@ Minimax is a kind of backtracking algorithm that is used in decision making to f
 
 In Minimax the two players are called maximizer and minimizer. The maximizer tries to get the highest score possible while the minimizer tries to do the opposite and get the lowest score possible.
 
-## Pictorial Explanation
+## Minimax Algorithm Visualisation
 ![MINIMAX](/minimax_vis.png)
 
 ## Reference
