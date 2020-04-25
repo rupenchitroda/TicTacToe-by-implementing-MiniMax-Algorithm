@@ -1,5 +1,5 @@
 # TicTacToe-by-implementing-MiniMax-Algorithm
-A Tic-Tac-Toe (Noughts and Crosses) game with implementation of MiniMax AI Algorithm in which user/player will never be able to win against machine/ai user.
+A Tic-Tac-Toe (Noughts and Crosses) game with the implementation of MiniMax AI Algorithm in which user/player will never be able to win against the machine/ai user.
 
 ## A bit about MiniMax Algorithm
 Minimax is a kind of backtracking algorithm that is used in decision making to find the optimal move for a player, assuming that your opponent also plays optimally.
