@@ -1,6 +1,6 @@
 import tkinter as tk
-# import time
-# import random
+import time
+import random
 from minimaxAlgo import main
 
 # game states 
