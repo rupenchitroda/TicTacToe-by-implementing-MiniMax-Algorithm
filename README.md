@@ -1,7 +1,6 @@
 # TicTacToe-by-implementing-MiniMax-Algorithm
 
 ## Demonstration Video
-## Youtube link
 [Youtube Link](https://youtu.be/trKjYdBASyQ)
 
 A Tic-Tac-Toe (Noughts and Crosses) game with the implementation of MiniMax AI Algorithm in which user/player will never be able to win against the machine/ai user.
