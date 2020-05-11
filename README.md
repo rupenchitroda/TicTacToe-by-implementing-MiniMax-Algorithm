@@ -2,7 +2,7 @@
 
 ## Demonstration Video
 ### Due to limited uploading size, I've uploaded demonstration video on the youtube platform.
-[Youtube Link](https://youtu.be/da3sAp3Jvnw)
+[Youtube Link](http://gestyy.com/e0mOBJ)
 
 ## Description 
 A Tic-Tac-Toe (Noughts and Crosses) game with the implementation of MiniMax AI Algorithm in which user/player will never be able to win against the machine/ai user.
