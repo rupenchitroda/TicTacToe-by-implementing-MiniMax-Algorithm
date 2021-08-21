@@ -12,6 +12,4 @@ In Minimax the two players are called maximizer and minimizer. The maximizer tri
 ![MINIMAX](/minimax_vis.png)
 
 ### References
-[YouTube](http://gestyy.com/e0mPki)
-
 [GeeksForGeeks](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/)
